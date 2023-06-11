@@ -20,7 +20,7 @@ if createPR == "y":
     pr_title = input("Enter the title for the pull request: ")
     pr_body = input("Enter the description for the pull request: ")
 
-    github_token = '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'
+    github_token = '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'
     repo_owner = 'Comicly69'
     repo_name = 'dotfiles'
 
